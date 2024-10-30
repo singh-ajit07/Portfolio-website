@@ -12,7 +12,7 @@ Features
   <br>
   . Contact me 
 
-Technologies Used in this project are:
+Technologies Used in this project are:<br>
   . HTML5 for structure <br>
   . CSS3 for styling <br>
   . JavaScript for interactivity
